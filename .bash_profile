@@ -1,0 +1,5 @@
+export SENDGRID_USERNAME="mikelearnsrails@gmail.com"
+export SENDGRID_PASSWORD="learning156"
+export MAILCHIMP_API_KEY="6f0eb494aa9af29f3b8680216330076b-us13"
+export MAILCHIMP_LIST_ID="2137469bea"
+export OWNER_EMAIL="mikelearnsrails@gmail.com"
